@@ -1,1 +1,12 @@
 #+TITLE: Memory of Gaming
+* Memory of WoW
+** [[file:WoW.org][BWL Tue May 19 2020]]
+* WA
+** [[file:WA/WA_AutoBlockTrade.txt][Trade Blocker]]
+去除烦人的暴风城贸易区、铁炉堡平民区银行门口的自动交易
+需要安装WA插件，导入字符串即可
+[[./WA/wa-trade-blocker.png]]
+有个小问题，如果双方都开启了这个WA，并且确实要交易，需要移步到其他区域，或者在命令行输入下面这个命令临时打开交易
+#+begin_src sh
+/run SetCVar("blockTrades", "0")
+#+end_src
