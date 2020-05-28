@@ -1,0 +1,10 @@
+#+TITLE: Gear Spider User Guide
+#+DESCRIPTION: Describe the Gear Sipder
+#+AUTHOR: FannyXL
+* 简介
+WCLSpiders 是基于Python的针对WCL网站的爬虫小程序，其主体实现 GearSpider 为怀旧服逆鳞公会抓取团员装备信息便于随时查询。抓取到的数据会保存在本地数据库文件和文本文件中，文本文件作为元数据提供给 Xpp 导入公会论坛数据库。本文档旨在说明在一台Windows 10的PC上如何搭建运行环境并且对于如何使用做了基本的说明。
+* 运行环境搭建
+** 必要软件
+** 可选软件
+* 使用指南
+* 其他

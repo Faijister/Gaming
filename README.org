@@ -10,3 +10,6 @@
 #+begin_src sh
 /run SetCVar("blockTrades", "0")
 #+end_src
+* WCLSpiders
+** [[file:WCLSpiders/GearSpider.org][GearSpider]]
+WCLSpiders aim to be a toolkit to scrap WCL. Currently it has GearSpider which fetch latest gear info for nilin (逆鳞) DKP Raid member (一、二、三、四 团) [http://gearcheck.nilin.pw/]

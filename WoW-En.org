@@ -1,0 +1,12 @@
+#+TITLE: WoW 美服一游
+#+AUTHOR: Syrier
+
+* Character
+- Server: WindRunner
+- Spec: Human
+- Class: Hunter
+- Syrier + Tyrier
+  [[./images/Screenshot 2020-05-24 08.04.35.png]]
+* Escort The Defias Traitor
+[[./images/Screenshot 2020-05-25 11.09.50.png]]
+[[./images/Screenshot 2020-05-25 11.12.18.png]]
