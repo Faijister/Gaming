@@ -2,7 +2,7 @@
 #+AUTHOR: Syrier
 
 * Character
-- Server: WindRunner
+- Server: Windseeker
 - Spec: Human
 - Class: Hunter
 - Syrier + Tyrier

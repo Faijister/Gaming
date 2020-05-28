@@ -1,7 +1,7 @@
 #+TITLE: Memory of Gaming
 * Memory of WoW
 ** [[file:WoW.org][BWL Tue May 19 2020]]
-** [[file:WoW-En.org][Wow En]]
+** [[file:WoW-En.org][WoW En]]
 * WA
 ** [[file:WA/WA_AutoBlockTrade.txt][Trade Blocker]]
 去除烦人的暴风城贸易区、铁炉堡平民区银行门口的自动交易
