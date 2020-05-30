@@ -1,6 +1,6 @@
 #+TITLE: WoW 美服一游
+#+DESCRIPTION: 魔兽怀旧服(美服)精彩截图
 #+AUTHOR: Syrier
-
 * Character
 - Server: Windseeker
 - Spec: Human

@@ -1,8 +1,7 @@
-#+TITLE: Memory of WOW
-#+DESCRIPTION: WOW Classic - nilin Raid 4
-#+AUTHOR: Fannyxl
+#+TITLE: Memory of BWL
+#+DESCRIPTION: 魔兽怀旧服BWL精彩截图 [逆鳞](4团)
+#+AUTHOR: FannyXL
 *  Day - Tue May 19 21:49:24 2020
-BWL
 [[./images/WoWScrnShot_051920_190508.jpg]]
 [[./images/WoWScrnShot_051920_192343.jpg]]
 [[./images/WoWScrnShot_051920_201558.jpg]]
