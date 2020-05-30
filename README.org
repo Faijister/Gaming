@@ -7,7 +7,7 @@
 * WA
 去除烦人的暴风城贸易区、铁炉堡平民区银行门口的自动交易
 需要安装WA插件，导入下面链接中的字符串即可\\
-[[file:WA/WA_AutoBlockTrade.txt][Trade Blocker WA]]
+[[file:WA/WA_AutoBlockTrade.org][Trade Blocker WA]]
 
 效果展示：
 [[./WA/wa-trade-blocker.png]]
