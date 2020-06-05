@@ -1,5 +1,5 @@
 #+TITLE: Memory of BWL
-#+DESCRIPTION: 魔兽怀旧服BWL精彩截图 [逆鳞](4团)
+#+DESCRIPTION: 魔兽怀旧服BWL精彩截图 [逆鳞](4团)(5团)
 #+AUTHOR: FannyXL
 *  Day - Tue May 19 21:49:24 2020
 [[./images/WoWScrnShot_051920_190508.jpg]]
@@ -13,3 +13,7 @@
 [[./images/Screenshot 2020-06-02 21.40.07.png]]
 [[./images/Screenshot 2020-06-02 21.56.29.png]]
 [[./images/Screenshot 2020-06-02 22.04.44.png]]
+*  Day - Sat Jun  6 07:53:49 2020
+[[./images/Screenshot 2020-06-05 21.29.19.png]]
+[[./images/Screenshot 2020-06-05 21.51.07.png]]
+[[./images/Screenshot 2020-06-05 22.18.46.png]]
