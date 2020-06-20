@@ -1,6 +1,9 @@
 #+TITLE: NFU Addon - WOW 1.12
 * UI
 ** ElvUI [/EC]
+*** Issue - conflict with Luna Unit Frame, below two modules should be disabled
+**** Action Bar -> disable, use Bartender2 instead
+**** 信息文字 -> 面板 -> 迷你面板 -> 小地图栏 不要勾选
 * Unit Frame
 ** Luna Unit Frame [/LUNA]
 * Action Bar
