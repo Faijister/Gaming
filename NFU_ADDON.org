@@ -1,13 +1,56 @@
 #+TITLE: NFU Addon - WOW 1.12
+* Default
+** /console cvar_default # SET ALL CONFIGURATION to DEFAULT
 * UI
-** ElvUI [/EC]
-*** Issue - conflict with Luna Unit Frame, below two modules should be disabled
+** ElvUI version 0.85 [/EC] [DISABLED]
+*** ElvUI-master
+*** Issue - conflict with other addon, below two modules should be disabled
 **** Action Bar -> disable, use Bartender2 instead
 **** 信息文字 -> 面板 -> 迷你面板 -> 小地图栏 不要勾选
+**** minimap -> disable FOR BigWigs icon-> WILL CAUSE BROKEN (Tried 0.5 STILL same)
+** pfUI
 * Unit Frame
 ** Luna Unit Frame [/LUNA]
+** X-perl
 * Action Bar
 ** Bartender2 [/bar]
 * Cast Bar
 ** oCB3 [/oCB]
 *** Issue - Spell name not showing, no Chinese Font
+**** Use oCB2 - [oCB_60cj.com]
+*** Issue - Login error =frame.lua:95:attempt to concatenate field '?' (a nil value)=
+**** SLOVE - /oCB profile choose Default
+* Raid
+** BigWigs [/bw]
+*** BigWigs_60cj
+*** Depend on !!!Libs
+*** CLI
+#+begin_src script
+/bw standby
+/bw 首领 安其拉 Twins 激活
+/bw 首领 安其拉 cthun 激活
+#+end_src
+* Lib
+** !!!Libs
+* Bag
+** Bagnon [/bgn]
+** OneBag
+* Information
+** FuBar
+* Map
+** Cartographer
+** simpleMinimap [/smm]
+* Buff/Debuff
+** VCB [/vcb]
+* Combat
+** MikScrollingBattleText [/msbt]
+* Omnicc [/omnicc]
+* KLHThreatMeter [/ktm]
+* Decursive
+* DPSMate [Damage/Heal Stat]
+* Chat
+** Prat
+* Misc
+** LazyPig
+** TinyTip
+** XGuid
