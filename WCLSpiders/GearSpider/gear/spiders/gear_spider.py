@@ -34,7 +34,7 @@ class GearSpider(scrapy.Spider):
     this_Tuesday = today - timedelta(days=today.weekday() - 1)
 
     # change start time by replace the day to be date of this Tuesday every week
-    # start = '2020-02-14'
+    # start = '2021-06-14'
     # start = datetime.strftime(today.replace(day=21), "%Y-%m-%d")
     start = datetime.strftime(this_Tuesday, "%Y-%m-%d")
 
@@ -104,7 +104,8 @@ class GearSpider(scrapy.Spider):
             report_title = report.get('title')
             week_tmp = report.get('end')
             # if report_title.startswith('2') and "BWL" in report_title:
-            if "BWL" in report_title:
+            # if "BWL" in report_title:
+            if "格鲁尔" in report_title:
                 week = get_week(week_tmp)
                 report_id = report.get('url').split('/')[-1]
                 meta = {
@@ -132,6 +133,8 @@ class GearSpider(scrapy.Spider):
     def parse_equip(self, response):
         meta = response.meta
         team = meta.get('title')
+        if 'C团' in team:
+            team = 'C团'
         if '1团' in team:
             team = '一团'
         elif '2团' in team:
@@ -160,6 +163,8 @@ class GearSpider(scrapy.Spider):
             user_type = '圣骑士'
         elif user_type == 'Warlock':
             user_type = '术士'
+        elif user_type == 'Shaman':
+            user_type = '萨满'
         week_time = meta.get('week_time')
         equips = response.xpath("//div//tr")
 
